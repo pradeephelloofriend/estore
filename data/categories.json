@@ -1,0 +1,44 @@
+[
+    {
+        "_id":{
+            "$oid":"6433917bdd41e1ea3c946578"
+        },
+        "name":"Gaming",
+        "slug":"gaming",
+        "createdAt":{
+            "$date":"2022-07-04T10:15:49.921Z"
+        },
+        "updateAt":{
+            "$date":"2022-07-04T10:15:49.921Z"
+        },
+        "__v":0
+    },
+    {
+        "_id":{
+            "$oid":"6433917bdd41e1ea3c946579"
+        },
+        "name":"Women's Clothing",
+        "slug":"Women's-Clothing",
+        "createdAt":{
+            "$date":"2022-07-05T10:15:49.921Z"
+        },
+        "updateAt":{
+            "$date":"2022-07-05T10:15:49.921Z"
+        },
+        "__v":0
+    },
+    {
+        "_id":{
+            "$oid":"6433917bdd41e1ea3c146578"
+        },
+        "name":"Men's Clothing",
+        "slug":"Men's-Clothing",
+        "createdAt":{
+            "$date":"2022-07-06T10:15:49.921Z"
+        },
+        "updateAt":{
+            "$date":"2022-07-06T10:15:49.921Z"
+        },
+        "__v":0
+    }
+]

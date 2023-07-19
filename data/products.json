@@ -1,0 +1,119 @@
+[
+    {
+        "_id":{
+            "$oid":"6433a06ddd41e1ea3c94657e"
+        },
+        "name":"Women’s Long Sleeve Shirt",
+        "description":"100% Cotton Indigo shirt with western yoke. Apt for casual outings, this shirt will keep you comfortable and stylish all day long.Indigo shirt with western yoke. Apt for casual outings",
+        "brand":"D&G",
+        "slug":"Women’s-Long-Sleeve-Shirt",
+        "sku":"sku00001",
+        "category":{
+            "$oid":"6433917bdd41e1ea3c946579"
+        },
+        "subCategories":{
+            "$oid":"643392b7dd41e1ea3c94657c"
+        },
+        "details":[
+            {
+                "name":"Style",
+                "value":"Boho",
+                "_id":{
+                    "$oid":"646392b7dd41e1ea3c94657c"
+                }
+            },
+            {
+                "name":"Pattern Type",
+                "value":"hhhhhhhh",
+                "_id":{
+                    "$oid":"644392b7dd41e1ea3c94657c"
+                }
+            },
+            {
+                "name":"Details",
+                "value":"knot",
+                "_id":{
+                    "$oid":"645302b7dd41e1ea3c94657c"
+                }
+            },
+            {
+                "name":"Type",
+                "value":"A Line",
+                "_id":{
+                    "$oid":"643392b7ed41e1ea3c94657c"
+                }
+            }
+        ],
+        "questions":[],
+        "images":[
+            {
+                "url":"https://res.cloudinary.com/drecyoxnc/image/upload/v1681100795/estore-next/women/7_vwjmcu.jpg",
+                "public_url":""
+            },
+            {
+                "url":"https://res.cloudinary.com/drecyoxnc/image/upload/v1681100803/estore-next/women/7-3_xnholz.jpg",
+                "public_url":""
+            },
+            {
+                "url":"https://res.cloudinary.com/drecyoxnc/image/upload/v1681100795/estore-next/women/7_vwjmcu.jpg",
+                "public_url":""
+            }
+        ],
+        
+        "colors":[
+            {
+                "colorCode":"#2333ac",
+                "image":"https://res.cloudinary.com/drecyoxnc/image/upload/v1681100795/estore-next/women/7_vwjmcu.jpg" ,
+                "_id":{
+                    "$oid":"643abf9bc23eb65df761593d"
+                } 
+            },
+            {
+                "colorCode":"#2533ac",
+                "image":"https://res.cloudinary.com/drecyoxnc/image/upload/v1681100795/estore-next/women/7_vwjmcu.jpg" ,
+                "_id":{
+                    "$oid":"643abf9bc23eb65df762593d"
+                } 
+            },
+            {
+                "colorCode":"#2F33ac",
+                "image":"https://res.cloudinary.com/drecyoxnc/image/upload/v1681100795/estore-next/women/7_vwjmcu.jpg" ,
+                "_id":{
+                    "$oid":"643abf9bc23eb65df763593d"
+                } 
+            }
+            
+        ],
+        "sizes":[
+            {
+                "size":"S",
+                "qty":10,
+                "price":170,
+                "_id":{
+                    "$oid":"643492b7dd41e1ea3c94657c"
+                }
+            },
+            {
+                "size":"M",
+                "qty":15,
+                "price":180,
+                "_id":{
+                    "$oid":"643492b7dd42e1ea3c94657c"
+                }
+            },
+            {
+                "size":"XL",
+                "qty":12,
+                "price":160,
+                "_id":{
+                    "$oid":"643492b7dd43e1ea3c94657c"
+                }
+            }
+        ],
+        "discount":10,
+        
+        "createdAt":{
+            "$date":""
+        }
+    }
+]
